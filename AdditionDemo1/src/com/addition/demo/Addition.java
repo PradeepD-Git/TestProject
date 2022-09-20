@@ -9,6 +9,6 @@ public class Addition {
 		int c;
 		c=a+b;
 		
-		System.out.println("Addition of a & b : "+c);
+		System.out.println("Addition of a & b :  "+c);
 	}
 }
